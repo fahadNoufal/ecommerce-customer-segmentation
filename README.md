@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project demonstrates an **end-to-end, industry-aligned data science workflow** applied to **real-world online retail data**. The goal is to understand customer behavior and derive actionable business insights through **unsupervised learning**, specifically **KMeans clustering**.
+This project demonstrates an **industry-aligned data science workflow** applied to **real-world online retail data**. The goal is to understand customer behavior and derive actionable business insights through **unsupervised learning**, specifically **KMeans clustering**.
 
 Rather than focusing only on model execution, this project emphasizes:
 
@@ -12,6 +12,8 @@ Rather than focusing only on model execution, this project emphasizes:
 * Translating analytical results into business strategies
 
 The final outcome is a **robust customer segmentation framework** that can directly support marketing, retention, and revenue optimization decisions.
+
+(Check Notebook for better understanding)
 
 ---
 
